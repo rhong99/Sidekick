@@ -131,4 +131,4 @@ dmypy.json
 # Additional
 .idea/
 /repository/paths.py
-/Sidekick/Sidekick/secrets.py
+/sidekick/secrets.py
