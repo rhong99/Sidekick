@@ -103,3 +103,5 @@ CRISPY_TEMPLATE_PACK = 'bootstrap5'
 
 LOGIN_REDIRECT_URL = 'main-home'
 LOGIN_URL = 'user-login'
+
+# other values should be put into path
